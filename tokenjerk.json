@@ -1,0 +1,22 @@
+{
+    "name": "clothofgod",
+    "symbol": "jerk",
+    "description": "testing beats bitch",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "ToiHGbeWQzmzsbD9qYSLhyrbb7iX14wdtYu3Yyx6mxa",
+        "share": 100
+      }
+    ],
+    "image": "https://thumbs2.imgbox.com/bd/78/99259bmf_t.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://thumbs2.imgbox.com/bd/78/99259bmf_t.jpg",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
